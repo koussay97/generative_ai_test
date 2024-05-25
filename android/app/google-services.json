@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324796910896",
+    "project_id": "generative-language-test",
+    "storage_bucket": "generative-language-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324796910896:android:055f33ddec0c588ae98cf5",
+        "android_client_info": {
+          "package_name": "com.example.generative_language_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUv9gbEFDgeTUZEWMQ7sd9ULDaB4fzEQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
