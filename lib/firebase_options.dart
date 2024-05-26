@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'generative-language-test.appspot.com',
     measurementId: 'G-7WVJKM2GF3',
   );
+
 }
